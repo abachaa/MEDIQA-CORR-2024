@@ -17,8 +17,8 @@ and for flagged texts (with error):
 
 # Data Description
 * The MS Training Set contains 2,189 clinical texts.
-* The MS Validation Set (#1) contains 574 clinical texts.
-* The UW Validation Set (#2) will be released on February 2nd.
+* The MS Validation Set (#1) contains 574 clinical texts. 
+* The UW Validation Set (#2) contains 160 clinical texts. 
 * The test will include clinical texts from the MS and UW collections.
 * The test set will contain the following 3 items: Text ID | Text | Sentences
 
