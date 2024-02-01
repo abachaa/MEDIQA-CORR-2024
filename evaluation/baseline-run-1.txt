@@ -1,0 +1,574 @@
+ms-val-0 1 3 One week ago, the patient was diagnosed with a genitourinary infection and started on antimicrobial therapy.
+ms-val-1 1 5 Culture tests indicate Neisseria gonorrhoeae.
+ms-val-2 1 10 There are multiple skin lesions with a blue livid center, pale intermediate zone, and a dark red peripheral rim on the upper and lower extremities.
+ms-val-3 1 0 A 4-year-old is brought into the emergency room by his mother.
+ms-val-4 0 -1 NA
+ms-val-5 1 7 Chlamydia trachomatis is the causal pathogen.
+ms-val-6 1 6 The patient has a Salmonella typhi infection.
+ms-val-7 1 6 The patient has a Salmonella typhi infection.
+ms-val-8 1 13 An echocardiogram shows left ventricular chamber enlargement with contractile dysfunction.
+ms-val-9 1 12 Suspected of pericarditis.
+ms-val-10 0 -1 NA
+ms-val-11 1 10 The causal organism is Staphylococcus aureus.
+ms-val-12 1 13 A skin biopsy showed multiple cigar-shaped yeast cells and leukocyte infiltration.
+ms-val-13 1 13 After reviewing labs and biopsy results, Sporothrix schenckii was determined to be the causal organism.
+ms-val-14 1 12 Gram stain of a urethral swab shows neutrophils but no organisms.
+ms-val-15 1 9 Pathology reports indicate infection by Mycoplasma genitalium.
+ms-val-16 1 6 Laboratory studies show a leukocyte count of 1,700/mm3 and a platelet count of 46,000/mm3.
+ms-val-17 1 8 Patient has an Anaplasma phagocytophilum infection.
+ms-val-18 1 7 The causal organism is Pseudomonas aeruginosa.  7 The causal organism is Escherichia coli.
+ms-val-19 1 6 Blood cultures grow gram-negative bacilli that ferment lactose. 7 The causal organism is Pseudomonas aeruginosa.
+ms-val-20 1 11 The patient has a bacterial vaginosis infection with the microscopic examination of the vaginal discharge shown.
+ms-val-21 1 11 The patient has a chlamydia tachomatis infection with the microscopic examination of the vaginal discharge shown.
+ms-val-22 1 6 A bone biopsy culture confirms the diagnosis as it grew Streptococcus pneumoniae.
+ms-val-23 1 6 A bone biopsy culture grew Salmonella enterica, confirming the diagnosis.
+ms-val-24 1 2 He now reports episodic hot, shooting, and tingling pain in the area where the right lower leg was before the amputation.
+ms-val-25 1 2 He now reports episodic hot, shooting, and tingling pain in the area where the right lower leg was before the amputation.
+ms-val-26 1 8 Suspected of asthma.
+ms-val-27 1 8 Suspected of asthma.
+ms-val-28 1 7 Colonoscopy showed a cobblestone mucosa, and the patient was diagnosed with Crohn's disease.
+ms-val-29 1 7 Colonoscopy showed a cobblestone mucosa, and the patient was diagnosed with Crohn's disease.
+ms-val-30 1 28 Patient was diagnosed with intrahepatic cholestasis of pregnancy.
+ms-val-31 1 28 Patient was diagnosed with intrahepatic cholestasis of pregnancy.
+ms-val-32 1 7 After examining the patient, he was diagnosed with Creutzfeldt-Jakob disease.
+ms-val-33 1 7 After examining the patient, he was diagnosed with frontotemporal dementia.
+ms-val-34 1 10 Consistent with major depressive disorder.
+ms-val-35 1 10 Consistent with major depressive disorder.
+ms-val-36 1 12 The indirect pupillary reflex is absent in the right eye but brisk in the left eye.
+ms-val-37 1 3 Suspected central serous retinopathy should be corrected to: 3 Suspected central retinal artery occlusion.
+ms-val-38 1 6 Patient was diagnosed with a rupture of the flexor digitorum profundus tendon at its point of insertion.
+ms-val-39 1 6 Patient was diagnosed with a rupture of the flexor digitorum profundus tendon at its point of insertion.
+ms-val-40 1 4 Patient was diagnosed with pulmonary emphysema after spirometry showed an FVC of 78% and an FEV1/FVC ratio of less than 70%.
+ms-val-41 1 4 Spirometry shows an FVC of 78% and an FEV1/FVC ratio of 70%, suggestive of obstructive lung disease. 5 Patient was diagnosed with pulmonary emphysema.
+ms-val-42 1 9 Patient is diagnosed with Gardner syndrome.
+ms-val-43 1 9 Patient is diagnosed with Gardner syndrome.
+ms-val-44 1 9 Patient is diagnosed with osteoporosis after lab work is drawn and is as follows: Correction: 9 Patient is diagnosed with osteoporosis after a bone density scan. Lab work is drawn and is as follows:
+ms-val-45 1 9 Patient is diagnosed with osteoporosis after lab work is drawn and is as follows: 9 Patient is diagnosed with osteomalacia after lab work is drawn and is as follows:
+ms-val-46 1 6 The newborn does not pass her auditory screening tests.
+ms-val-47 1 3 Patient was diagnosed with a congenital rubella infection.
+ms-val-48 0 -1 NA
+ms-val-49 0 -1 NA
+ms-val-50 1 7 Patient is diagnosed with cerebral toxoplasmosis.
+ms-val-51 1 7 Patient is diagnosed with cerebral toxoplasmosis.
+ms-val-52 1 5 mm3.The patient is diagnosed with acute lymphoblastic leukemia after a peripheral blood smear shows immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cytoplasmic inclusions. 5 mm3. The patient is diagnosed with acute lymphoblastic leukemia after a peripheral blood smear shows immature cells with large, prominent nucleoli, but not pink, elongated, needle-shaped cytoplasmic inclusions.
+ms-val-53 1 6 The patient is diagnosed with acute myeloid leukemia.
+ms-val-54 1 9 Suspected of uterine rupture.
+ms-val-55 1 7 Suspected of abruptio placentae.
+ms-val-56 1 16 Suspected of juvenile idiopathic arthritis.
+ms-val-57 1 17 Suspected of acute rheumatic fever.
+ms-val-58 1 5 Patient is diagnosed with an epidural hematoma.
+ms-val-59 1 5 Patient is diagnosed with a subdural hematoma.
+ms-val-60 1 3 Suspected of cystoid macular edema.
+ms-val-61 1 3 The patient is suspected of having cystoid macular edema.
+ms-val-62 1 7 Suspected of major depressive disorder.
+ms-val-63 1 7 Suspected of persistent depressive disorder.
+ms-val-64 1 0 A 40-year-old woman with a suspected VIPoma comes to the physician for right lower abdominal pain for 6 months. 1 She has multiple non-bloody, watery bowel movements daily and experiences abdominal cramping. 2 Sometimes, she feels sudden palpitations, is short of breath, and her face becomes red. 3 She has lost 7 kg over the past 3 months. 4 She went on a 3-week hiking trip to Cambodia 6 months ago. 5 She has smoked a pack of cigarettes daily for 15 years. 6 Her temperature is 37ËšC (98.6Â°F), her pulse is 72/min and her blood pressure is 125/70 mm 7 Hg. 8 On physical examination, tiny blood vessels are noted on her face and arms. 9 Lung auscultation shows bilateral wheezing. 10 The abdomen is soft and nondistended. 11 There is localized tenderness to the right lower quadrant, but no rebound tenderness or guarding. 12 Laboratory studies show: Leukocyte count 4,600 13 /mm3  14 Segmented neutrophils 61 %  15 Eosinophils 2 %  16 Platelet count 254,000 /mm3  17 Hemoglobin 13.1 g 18 /dL  19 Serum  20 Aspartate aminotransferase (AST) 110 IU/L Alanine aminotransferase (ALT) 128 IU/L  21 C-reactive protein 22 8 mg/dL 23 (N = 0â€“10)  CORRECT
+ms-val-65 1 25 Patient is diagnosed with a VIPoma.
+ms-val-66 1 19 Patient was diagnosed with an ovarian torsion.  19 Patient was diagnosed with a kidney stone.
+ms-val-67 1 19 Patient was diagnosed with nephrolithiasis, not ovarian torsion.
+ms-val-68 0 -1 NA
+ms-val-69 1 9 Patient was diagnosed with reactive arthritis.
+ms-val-70 0 -1 NA
+ms-val-71 1 8 Patient is diagnosed with schizophrenia on mental status examination.
+ms-val-72 1 10 The patient's diagnosis is cauda equina syndrome and immediate surgical decompression should be considered after the MRI.
+ms-val-73 1 10 Presentation indicates palatal pleomorphic adenoma. 10 Presentation indicates palatal torus or exostosis.
+ms-val-74 1 12 Presentation indicates torus palatinus.
+ms-val-75 1 11 Patient was diagnosed with diabetes insipidus.
+ms-val-76 1 11 The patient was diagnosed with partial central diabetes insipidus.
+ms-val-77 1 10 Diagnosis is vascular dementia.
+ms-val-78 1 13 Diagnosis is normal pressure hydrocephalus.
+ms-val-79 1 9 Patient is diagnosed with lyme arthritis.
+ms-val-80 1 15 Plan procedure to decompress traumatic subungual hemorrhage. 15 Plan procedure to evaluate the skin lesion near the right large toenail.
+ms-val-81 1 15 Plan procedure to treat the skin lesion near the right large toenail.
+ms-val-82 1 15 1100 U/L. Patient was diagnosed with neuroleptic malignant syndrome.
+ms-val-83 1 15 Patient was diagnosed with neuroleptic malignant syndrome.
+ms-val-84 1 13 Cervical and axillary lymph nodes are not enlarged in X-linked agammaglobulinemia.
+ms-val-85 1 14 Suspected of X-linked agammaglobulinemia.
+ms-val-86 1 6 Initial laboratory work-up reveals ESR and creatine kinase levels within normal limits.
+ms-val-87 1 13 Diagnosis is liver hematoma.
+ms-val-88 1 13 Pulse oximetry on 60% oxygen showed an oxygen saturation of 90%.
+ms-val-89 1 14 Patient is diagnosed with transient tachypnea of the newborn.
+ms-val-90 1 9 Diagnosis is intermittent explosive disorder.
+ms-val-91 1 9 Diagnosis is disruptive mood dysregulation disorder.
+ms-val-92 0 -1 NA
+ms-val-93 1 3 Suspected of OCD.
+ms-val-94 1 3 Suspected of OCD.
+ms-val-95 1 13 Patient is diagnosed with uterine rupture and taken back for surgery.  13 Patient is diagnosed with retained placenta and taken back for surgery.
+ms-val-96 1 13 Patient is diagnosed with retained placenta and taken back for surgery.
+ms-val-97 1 7 Suspected of bronchogenic cyst.  7 Diagnosis of bronchogenic cyst is suspected.
+ms-val-98 1 7 Suspected of bronchogenic cyst.
+ms-val-99 1 14 The patient has measles.
+ms-val-100 1 14 The patient has rubella.
+ms-val-101 1 11 Patient is diagnosed with mitral valve stenosis. 11 Patient is diagnosed with congestive heart failure.
+ms-val-102 1 12 Patient is diagnosed with mitral valve stenosis.
+ms-val-103 1 12 Diagnosis is Lyme disease.
+ms-val-104 1 12 Diagnosis is Kawasaki disease.
+ms-val-105 1 14 Suspected of having diabetic retinopathy.
+ms-val-106 1 14 The abdomen is soft and not distended.
+ms-val-107 1 7 The remainder of her exam is benign.
+ms-val-108 1 3 Colonic atresia is confirmed when there is no passage of meconium within 48 hours after birth.
+ms-val-109 1 3 A dark green discharge is coming out of the vulva, suggesting a fistula between the rectum and the vagina.
+ms-val-110 0 -1 NA
+ms-val-111 1 6 Neurocardiogenic syncope is suspected after cardiopulmonary examination shows no abnormalities, and neurologic examination shows no focal findings.
+ms-val-112 1 6 Neurocardiogenic syncope cannot be confirmed solely based on the absence of abnormalities in cardiopulmonary and neurologic examinations.
+ms-val-113 1 30 Diagnosis is granulomatosis with polyangiitis.
+ms-val-114 0 -1 NA
+ms-val-115 1 9 Suspected of pulmonary embolism.
+ms-val-116 1 9 Physical exam is notable for the finding in Figure A. Patient was diagnosed with shingles.
+ms-val-117 1 5 Within a few hours after each episode, physical examination and laboratory studies have shown no abnormalities.
+ms-val-118 1 11 Diagnosis is presbycusis.
+ms-val-119 0 -1 NA
+ms-val-120 1 8 Suspected of medial meniscus injury.
+ms-val-121 1 12 Patient was diagnosed with a disc herniation.
+ms-val-122 1 12 Patient was diagnosed with spondylolisthesis.
+ms-val-123 1 4 Her only medication is sumatriptan and an antidiabetic medication.
+ms-val-124 1 6 Ophthalmologic examination showed visual acuity of 20/40 in the left eye and 20/100 in the right eye.
+ms-val-125 1 4 Patient is diagnosed with post-traumatic stress disorder.
+ms-val-126 1 3 Examination of the breast indicates possible intraductal papilloma, showing expression of a small amount of serosanguinous fluid from the right nipple; there are no palpable breast masses or axillary lymphadenopathy.
+ms-val-127 0 -1 NA
+ms-val-128 1 9 Patient was diagnosed with bacterial vaginosis.  9 The diagnosis of bacterial vaginosis is inconsistent with the findings of a white, thin, odorless vaginal discharge and a wet mount showing no abnormalities.
+ms-val-129 1 9 Patient was not diagnosed with any condition as the wet mount of the discharge showed no abnormalities.
+ms-val-130 1 10 Based on exam and imaging findings, the patient was diagnosed with abdominal compartment syndrome. . 10 Based on exam and imaging findings, the patient was diagnosed with ischemic bowel.
+ms-val-131 1 10 Based on exam and imaging findings, the patient was diagnosed with ischemic colitis.
+ms-val-132 1 15 Suspected of protein malnutrition.
+ms-val-133 1 13 The abdomen is mildly distended and the liver is palpated 2 cm below the right costal margin.
+ms-val-134 1 15 Thirty minutes later, the patient's GCS is 11.
+ms-val-135 1 20 Laboratory values are ordered and demonstrate minor blood group incompatibility:
+ms-val-136 1 16 Diagnosis is glioblastoma multiforme.
+ms-val-137 1 16 Diagnosis is meningioma.
+ms-val-138 1 7 Suspected of mitral insufficiency.
+ms-val-139 1 7 Suspected of aortic stenosis.
+ms-val-140 1 34 Patient was diagnosed with acute pyelonephritis.
+ms-val-141 1 34 Patient was diagnosed with acute pyelonephritis.
+ms-val-142 1 6 There are multiple papular elevations at the base of hair follicles and darkening of the palmar and plantar creases.
+ms-val-143 1 5 Suspected of x-linked ichthyosis.
+ms-val-144 1 5 Patient is experiencing symptoms of post-traumatic stress disorder.
+ms-val-145 1 5 Patient is experiencing post-traumatic stress disorder.
+ms-val-146 1 8 Based on the following exam, the patient was diagnosed with conversion disorder.
+ms-val-147 1 8 Based on the following exam, the patient was diagnosed with conversion disorder.
+ms-val-148 1 11 Phosphorus: 1.1 mg/dL
+ms-val-149 1 16 Patient is diagnosed with vitamin D deficiency rickets.
+ms-val-150 1 7 Suspected of obsessive-compulsive disorder.
+ms-val-151 1 7 Suspected of generalized anxiety disorder.
+ms-val-152 1 22 Diagnosis is tension pneumothorax.  22 Diagnosis is flail chest.
+ms-val-153 1 22 Diagnosis is traumatic pneumothorax.
+ms-val-154 1 4 She collects rare crystals and says that they support her â€œsixth sense.â€ She is suspected of having schizoid personality disorder.
+ms-val-155 1 5 Suspected of schizotypal personality disorder.
+ms-val-156 1 11 Patient was diagnosed with gender dysphoria.
+ms-val-157 1 5 The patient is diagnosed with galactorrhea when upon exam, there are no palpable masses, and the patient does not have any erythema or induration.
+ms-val-158 1 5 The patient is diagnosed with fibrocystic changes of her breasts when upon exam, there are no palpable masses, and the patient does not have any erythema or induration.
+ms-val-159 1 5 Patient is diagnosed with squamous cell carcinoma.
+ms-val-160 1 5 Patient is diagnosed with squamous cell carcinoma.
+ms-val-161 1 0 A 17-year-old rugby player limped into the emergency room and said he â€œrolled his ankleâ€ while running during a game.
+ms-val-162 1 4 Suspected of ATFL sprain.
+ms-val-163 1 4 Serum albumin: 3.5 g/dL
+ms-val-164 1 9 Suspected of minimal change disease. 10 Urinalysis shows 4+ proteinuria and fatty casts.
+ms-val-165 1 4 Physical examination shows a uterus consistent with 18 weeks gestation.
+ms-val-166 1 6 Ultrasonography of the uterus confirms the fetus has anencephaly showing an increased amniotic fluid volume.
+ms-val-167 1 5 Diagnosis is eosinophilic granulomatosis with polyangiitis.
+ms-val-168 1 5 Diagnosis is eosinophilic granulomatosis with polyangiitis.
+ms-val-169 0 -1 NA
+ms-val-170 0 -1 NA
+ms-val-171 1 6 Patient is diagnosed with paranoid schizophrenia.
+ms-val-172 1 6 Patient is diagnosed with schizophrenia.
+ms-val-173 1 12 The optic disc appears normal.  12 The optic disc appears swollen.
+ms-val-174 1 12 Suspected of central retinal artery occlusion.
+ms-val-175 1 0 A 59-year-old woman comes to the physician because of worsening shortness of breath for the past two weeks. 1 Physical examination shows decreased breath sounds at both lung bases. 2 The abdomen is distended and there is shifting dullness with a positive fluid wave. 3 Ultrasound of the abdomen shows a large collection of peritoneal fluid and a hypoechoic mass involving the left ovary. 4 Microscopic examination of a biopsy specimen from the ovarian mass shows clusters of spindle-shaped cells. 5 Patient was diagnosed with an ovarian fibroma.
+ms-val-176 1 5 Patient was diagnosed with an ovarian fibroma.
+ms-val-177 1 4 Suspected of Myasthenia Gravis.
+ms-val-178 1 4 Suspected of Myasthenia Gravis.
+ms-val-179 1 16 Patient is diagnosed with acute interstitial nephritis.
+ms-val-180 1 16 Patient is diagnosed with acute pyelonephritis.
+ms-val-181 1 8 Patient is diagnosed with cholecystitis after serum studies show:
+ms-val-182 1 8 Patient is diagnosed with acalculous cholecystitis after serum studies show:
+ms-val-183 1 0 A 5-year-old girl is brought to the emergency department because of abdominal pain, vomiting, and diarrhea for 6 days. 1 Her mother says that over the last 24 hours she has developed a rash and has been urinating less frequently than usual. 2 One month ago, she had a 3-day episode of high fever and sore throat that subsided without medical treatment. 3 She appears weak. 4 Her temperature is 37.7Â°C (99.8Â°F), pulse is 120/min, respirations are 28/min, and blood pressure is 114/72 mm 5 Hg. 6 Examination shows petechiae on the trunk and jaundice of the skin. 7 The abdomen is diffusely tender with no peritoneal signs. 8 Neurological examination shows no abnormalities. 9 Laboratory studies show:  10 Hemoglobin 8 g 11 /dL Mean corpuscular volume 85 12 Î¼m3 Leukocyte count 13 16,200/mm3 Platelet count 38,000 14 /mm3 Serum  15 Blood urea nitrogen 16 43 mg/dL  17 Creatinine 2.9 mg/dL  18 pH 7.0  19 Urine dipstick is positive for blood and protein. 20 A blood smear shows schistocytes and normochromic, normocytic cells. 21 Plasma exchange therapy is required.   CORRECT
+ms-val-184 1 8 Hemodialysis is required.
+ms-val-185 1 8 After examining the patient, she was recommended to do sitz baths at home.
+ms-val-186 1 8 After examining the patient, the physician recommended she do sitz baths at home.
+ms-val-187 1 5 While treating the patient's condition, the hospital also wants to eradicate the causal pathogen in asymptomatic carriers with mupirocin nasal ointment and chlorhexidine body wash.
+ms-val-188 1 5 While treating the patient's condition, the hospital also wants to eradicate the causal pathogen in asymptomatic carriers with mupirocin nasal ointment.
+ms-val-189 0 -1 NA
+ms-val-190 1 12 Packed red blood cells are administered after, when vital signs are measured again, his pulse is 95/min and blood pressure is 109/80 mm Hg.
+ms-val-191 1 12 When vital signs are measured again, his pulse is 95/min and his blood pressure is 109/80 mm Hg.
+ms-val-192 1 12 Endovascular thrombolysis was performed.
+ms-val-193 1 12 An MR venography of the head shows a heterogeneous intensity in the left lateral sinus.
+ms-val-194 0 -1 NA
+ms-val-195 1 3 Inactivated influenza vaccine was administered.
+ms-val-196 1 12 Clomipramine is prescribed to the patient without any diagnosis or explanation.
+ms-val-197 1 9 A CT scan of the abdomen shows a retroperitoneal hematoma and hazy margins of the surrounding structures.
+ms-val-198 1 7 Fresh frozen plasma and tranexamic acid were administered.
+ms-val-199 0 -1 NA
+ms-val-200 1 8 Her temperature is 38Â°C (100.4Â°F), pulse is 90/min, and blood pressure is 135/85 mm Hg.
+ms-val-201 1 13 After reviewing labs, an antibody screening was ordered to further evaluate.
+ms-val-202 1 3 Twenty years ago, she was successfully treated for Coats disease of the retina via retinal sclerotherapy.
+ms-val-203 1 6 Based on the following exam and labs, the patient was started on phlebotomy therapy to induce remission.
+ms-val-204 1 8 After examining the patient, pyridostigmine therapy was initiated. 8 After examining the patient, the decision to initiate pyridostigmine therapy was made.
+ms-val-205 1 8 After examining the patient, pyridostigmine therapy was initiated.
+ms-val-206 1 0 A 5-year-old girl is brought to the emergency department after drinking a bottle of drain cleaner.
+ms-val-207 1 9 There was mucopurulent discharge in both eyes and mild eyelid swelling before treatment.
+ms-val-208 1 8 There was mucopurulent discharge in both eyes and mild eyelid swelling. 9 Polymerase chain reaction assay of conjunctival scraping confirmed the diagnosis. 10 Patient was treated with topical erythromycin administration based on exam and PCR results.
+ms-val-209 1 10 Rapid plasma reagin and fluorescent treponemal antibody test are are both positive. 10 Rapid plasma reagin and fluorescent treponemal antibody tests are both positive.
+ms-val-210 1 11 Rapid plasma reagin and fluorescent treponemal antibody test are both positive.
+ms-val-211 1 10 Her temperature is 36Â°C (96.8Â°F), pulse is 90/min, respirations are 12/min, and blood pressure is 116/80 mm Hg.
+ms-val-212 1 14 Plan to consider prescription for Buspirone.
+ms-val-213 0 -1 NA
+ms-val-214 1 4 Isoniazid is recommended.
+ms-val-215 0 -1 NA
+ms-val-216 0 -1 NA
+ms-val-217 1 13 Patient was scheduled for a colonoscopy. A colonoscopy is contraindicated in this case due to the risk of perforation in a distended cecum. The patient should be managed conservatively with nasogastric suction and fluid resuscitation, and if there is no improvement, surgery may be considered.
+ms-val-218 1 13 A CT scan with contrast confirmed the x-ray findings and showed a cecal dilation of 14 cm.
+ms-val-219 0 -1 NA
+ms-val-220 1 1 Radical inguinal orchiectomy is required.
+ms-val-221 1 6 Patient is prescribed TMP-SMX.  6 Patient is prescribed amoxicillin for otitis media.
+ms-val-222 1 6 Patient is prescribed amoxicillin.
+ms-val-223 1 10 Auscultation of the right side of the neck shows a bruit.
+ms-val-224 1 13 Patient was scheduled for a digital subtraction angiography of the neck based on the following findings.
+ms-val-225 1 10 External cephalic version is recommended. 10 External cephalic version is recommended if the fetus remains in transverse lie closer to the due date.
+ms-val-226 1 9 The patient states that she prefers to have a vaginal delivery, but due to the transverse lie of the fetus, a cesarean section may be necessary.
+ms-val-227 0 -1 NA
+ms-val-228 1 14 Lumpectomy with sentinel lymph node biopsy followed by radiation and hormone therapy is recommended.
+ms-val-229 1 8 Timed doses of pyridostigmine were administered.
+ms-val-230 1 3 Her physical exam is notable for a gravid uterus and possible left ovarian mass palpated on bimanual exam.
+ms-val-231 1 3 Her physical exam is notable for a gravid uterus and possible left ovarian mass palpated on bimanual exam.
+ms-val-232 1 4 Her temperature is 39.4Â°C (102.9Â°F), pulse is 102/minute, blood pressure is 94/68 CORRECT
+ms-val-233 1 23 Intravenous fluid resuscitation is begun.
+ms-val-234 1 7 Based on exam, cervical and urethral swabs, and imaging, a hysteroscopy was recommended to further evaluate.
+ms-val-235 1 7 Based on exam, cervical and urethral swabs, and imaging, a laparoscopy was recommended to further evaluate.
+ms-val-236 1 14 Supportive treatment is only required. Correction: 14 Supportive treatment is recommended.
+ms-val-237 1 9 His temperature is 37Â°C (98.6Â°F), blood pressure is 100/60 mm Hg.
+ms-val-238 0 -1 NA
+ms-val-239 1 5 Cisplatin-etoposide therapy and radiotherapy are required.
+ms-val-240 1 14 Pulse oximetry shows an oxygen saturation of 73%. 14 Pulse oximetry shows an oxygen saturation of 93%.
+ms-val-241 1 22 BiPAP was started.
+ms-val-242 1 4 After the following exam, a vaginal-rectal swab was obtained for GBS culture and intravenous penicillin was administered. 4 After the exam, a vaginal-rectal swab was obtained for GBS culture and intravenous penicillin was administered.
+ms-val-243 1 4 After the following exam, a vaginal-rectal swab was obtained for GBS culture and intravenous penicillin was administered.
+ms-val-244 1 21 Dexamethasone therapy was started.
+ms-val-245 1 21 Dexamethasone therapy was started.
+ms-val-246 1 11 Oxygen supplementation was given with a non-rebreather mask and N-acetylcysteine was administered to the patient based on the following arterial blood gas results.
+ms-val-247 1 11 Oxygen supplementation was given with a non-rebreather mask and N-acetylcysteine was administered to the patient based on the following arterial blood gas results.
+ms-val-248 1 15 Na+ 137 mEq/L K+ 6.8 mEq/L  The correct sentence should be:   15 Na+ 137 mEq/L K+ 5.0 mEq/L
+ms-val-249 1 6 Diphenhydramine is administered after the patient keeps getting out of bed and trying to walk away despite being a fall risk.
+ms-val-250 1 6 Subsequently, the patient keeps getting out of bed and trying to walk away despite being a fall risk, and olanzapine is administered.
+ms-val-251 0 -1 NA
+ms-val-252 0 -1 NA
+ms-val-253 1 5 mmHg, pulse is 132/min, and respirations are 16/min.
+ms-val-254 1 9 A CT scan of the abdomen is scheduled.
+ms-val-255 1 9 A CT scan of the abdomen was scheduled.
+ms-val-256 1 20 Observation was recommended as a next step in management.
+ms-val-257 1 20 Observation was recommended as a next step in management.
+ms-val-258 1 10 A core biopsy shows foam cells and multinucleated giant cells.
+ms-val-259 1 9 A core biopsy shows foam cells and multinucleated giant cells. 10 Modified radical mastectomy is required.
+ms-val-260 0 -1 NA
+ms-val-261 1 15 An exploratory laparotomy was performed after abdominal examination showed a sausage-shaped abdominal mass in the right upper quadrant.
+ms-val-262 1 15 Abdominal examination shows a sausage-shaped abdominal mass in the right upper quadrant.
+ms-val-263 0 -1 NA
+ms-val-264 1 0 A 31-year-old G6P6 woman with a history of fibroids gives birth to twins via vaginal delivery.
+ms-val-265 1 3 His physical exam and FAST exam are normal other than the knife wound.
+ms-val-266 1 3 His physical exam and FAST exam are normal other than the knife wound.
+ms-val-267 0 -1 NA
+ms-val-268 1 5 She stopped taking oral contraceptives 1 year ago.
+ms-val-269 1 8 At this visit, the patient's temperature is 98.2°F (36.8°C), pulse is 85/min, blood pressure is 110/62 mmHg, and respirations are 15/min.
+ms-val-270 1 13 Surgical repair of the esophagus was performed after a Contrast esophagram with gastrografin showed mild leakage of contrast from the lower esophagus into the mediastinum without contrast extravasation into the pleural and peritoneal cavities.
+ms-val-271 1 13 Surgical repair of the esophagus was performed after a Contrast esophagram with gastrografin showed mild leakage of contrast from the lower esophagus into the mediastinum without contrast extravasation into the pleural and peritoneal cavities.
+ms-val-272 1 7 Intravenous phenytoin was administered.
+ms-val-273 1 7 Intravenous fosphenytoin was administered.
+ms-val-274 0 -1 NA
+ms-val-275 0 -1 NA
+ms-val-276 1 8 Oral acyclovir is prescribed. 8 Topical acyclovir is prescribed.
+ms-val-277 1 8 Oral acyclovir is prescribed.
+ms-val-278 0 -1 NA
+ms-val-279 1 7 He has been exclusively breast fed since birth and feeds 11-12 times daily.
+ms-val-280 1 8 Pleural decortication is performed after the pleural fluid obtained via diagnostic thoracocentesis shows a pH of 7.4 and glucose concentration of 55 mg/dL.
+ms-val-281 0 -1 NA
+ms-val-282 0 -1 NA
+ms-val-283 1 7 Echocardiography is ordered before initiating treatment with appropriate pharmacotherapy.
+ms-val-284 1 3 if 75/min, blood pressure is 155/90 mm Hg, and respiratory rate is 15/min.
+ms-val-285 1 7 (normal: 100 ng/mL).
+ms-val-286 1 7 (normal: 20-25 ng/mL).
+ms-val-287 0 -1 NA
+ms-val-288 0 -1 NA
+ms-val-289 1 8 Based on symptoms, Helicobacter pylori serum IgG test was ordered to further evaluate.
+ms-val-290 1 8 Based on the exam, a Helicobacter pylori serum IgG test was ordered to further evaluate.
+ms-val-291 1 16 Surgical decompression was recommended as a next step. 16 Biopsy of the lung opacities was recommended as a next step.
+ms-val-292 1 16 Surgical decompression was recommended as a next step.
+ms-val-293 1 1 Today, the patient attempted to set their house on fire while yelling that he was trying to "save us all."
+ms-val-294 0 -1 NA
+ms-val-295 0 -1 NA
+ms-val-296 1 13 After reviewing test results, metronidazole was administered.
+ms-val-297 1 17 Intravenous 0.9% saline solution was administered to the patient.
+ms-val-298 1 17 Intravenous 0.9% saline solution was administered to the patient.
+ms-val-299 1 7 She has a hoarse voice and frequently clears her throat during the examination.
+ms-val-300 1 9 Pulmonary function tests show a FEV1 of 78% of expected, indicating a possible need for adjustment in her asthma management.
+ms-val-301 1 3 Her hemoglobin A1c is 9.8%.
+ms-val-302 0 -1 NA
+ms-val-303 1 10 In addition to securing the airway, activated charcoal was given to the patient.
+ms-val-304 1 10 In addition to securing the airway, pralidoxime was given to the patient.
+ms-val-305 1 6 Pressing the metatarsal of the third right toe results in pain.
+ms-val-306 1 6 Pressing the metatarsal of the third right toe results in pain.
+ms-val-307 1 8 Mammography was recommended.
+ms-val-308 1 8 Her temperature is 36.9Â°C (98.5Â°F) and her blood pressure is 94/58 mm Hg.
+ms-val-309 0 -1 NA
+ms-val-310 1 15 An MRI of the brain is obtained.
+ms-val-311 1 2 The ventilator is at a FiO2 of 100%, tidal volume is 920 mL, and positive end-expiratory pressure is 5 cm H2O.
+ms-val-312 1 10 The corpus callosum, 3rd ventricle, and lateral ventricles are absent. 10 The corpus callosum, 3rd ventricle, and lateral ventricles are present.
+ms-val-313 1 6 He appears unwell.
+ms-val-314 1 6 He appears unwell.
+ms-val-315 1 10 Serum Na+ 152 mEq/ L
+ms-val-316 1 19 Trial of amiloride therapy prescribed.
+ms-val-317 0 -1 NA
+ms-val-318 1 16 A lumbar puncture was performed to further evaluate.
+ms-val-319 1 7 , leukocyte count is 6600/mm3, and platelet count is 280,000/mm3.
+ms-val-320 1 7 , leukocyte count is 6600/mm3, and platelet count is 150,000/mm3.
+ms-val-321 1 2 Periodic monitoring of liver function tests is required.
+ms-val-322 1 2 Periodic monitoring of alpha-fetoprotein is required.
+ms-val-323 1 3 His pulse is 72/min, and blood pressure is 158/105 mm 4 Hg. 3 His pulse is 72/min, and blood pressure is 158/105 mmHg.
+ms-val-324 1 7 A postvoid ultrasound shows a residual bladder volume of 110 mL. Terazosin therapy is administered.
+ms-val-325 1 12 Spirometry showed an FEV1 of 1.6 L.
+ms-val-326 1 8 A wedge resection of the tumor was recommended based on the following findings.
+ms-val-327 1 6 On physical exam, fetal heart tones are not detected. 7 Abdominal ultrasound shows a 24-week fetal demise.   6 On physical exam, fetal heart tones are detected. 7 Abdominal ultrasound shows a 28-week fetus with normal development.
+ms-val-328 1 8 The spleen is palpated 6 cm below the left costal margin. 8 The spleen is palpable 6 cm below the left costal margin.
+ms-val-329 1 14 Based on the following findings, patient was started on ruxolitinib.
+ms-val-330 1 8 Trimethoprim/sulfamethoxazole is administered. 8 Trimethoprim/sulfamethoxazole is not administered because it is contraindicated in the first trimester of pregnancy.
+ms-val-331 1 8 Trimethoprim/sulfamethoxazole is contraindicated in pregnancy due to the risk of kernicterus and neural tube defects in the fetus.
+ms-val-332 1 8 She is oriented to place and person.
+ms-val-333 1 9 Trimethoprim-sulfamethoxazole and continued breastfeeding are recommended.
+ms-val-334 1 12 Intravenous methylprednisolone and a temporal artery biopsy are recommended after labs were reviewed.
+ms-val-335 1 12 Intravenous methylprednisolone and a temporal artery biopsy are recommended after labs were reviewed.
+ms-val-336 1 8 Cardiopulmonary examination shows no abnormalities. The abdomen is soft and nondistended.
+ms-val-337 1 10 Surgical exploration of the scrotum is scheduled immediately.
+ms-val-338 1 16 She flexed her hips and knees when her neck was flexed while lying in a supine position.  16 She flexed her hips and knees when her neck was flexed, indicating a positive Brudzinski's sign.
+ms-val-339 1 13 Based on exam and CT findings, the patient was diagnosed with a subdural hemorrhage.
+ms-val-340 1 11 The patient is given a prescription for isotretinoin. 11 The patient is given a prescription for isotretinoin after confirming she is not pregnant and discussing potential risks and side effects.
+ms-val-341 1 11 Labs were ordered to check the patient's hCG levels.
+ms-val-342 1 8 Repeat cytology in 6 months is recommended after a Pap test shows atypical squamous cells of undetermined significance.
+ms-val-343 1 8 A Pap test shows atypical squamous cells of undetermined significance; repeat cytology in 6 months was recommended.
+ms-val-344 1 12 In addition to continuing the oral contraceptive pill, a percutaneous liver biopsy was recommended to further evaluate.
+ms-val-345 1 9 After reviewing imaging, reimaging in 6 months was recommended in addition to stopping the oral contraceptive pill.
+ms-val-346 1 5 Both parents were asked to leave the examination room to perform a forensic interview of the child.
+ms-val-347 1 3 Haloperidol was administered.
+ms-val-348 1 3 Lorazepam was administered.
+ms-val-349 1 12 A diagnostic laparotomy is scheduled.
+ms-val-350 1 12 Intravenous fluid therapy was initiated.
+ms-val-351 1 13 The abdomen is soft and nontender.
+ms-val-352 1 13 The abdomen is soft and nontender.
+ms-val-353 1 9 Patient was recommended complete bed rest and discharged home.
+ms-val-354 1 9 Patient was given reassurance and follow-up ultrasonography was scheduled after ultrasonography showed an intrauterine pregnancy and normal fetal cardiac activity.
+ms-val-355 1 14 The abdomen is soft, distended, and nontender.
+ms-val-356 1 6 She has to change her perineal pad every 2-3 hours.
+ms-val-357 1 10 Regular echocardiographies were recommended for this patient.
+ms-val-358 1 10 Regular echocardiographies were not recommended for this patient.
+ms-val-359 0 -1 NA
+ms-val-360 0 -1 NA
+ms-val-361 0 -1 NA
+ms-val-362 1 11 Detection of antistreptolysin O titer was done to further evaluate.
+ms-val-363 1 11 Detection of antistreptolysin O titer was done to further evaluate.
+ms-val-364 0 -1 NA
+ms-val-365 0 -1 NA
+ms-val-366 1 13 Observation and serial CT scans are the follow-up treatment for the patient's condition.
+ms-val-367 1 8 Admission to hospital is required.
+ms-val-368 1 8 Immediate hospital admission is required due to the patient's suicidal ideation.
+ms-val-369 1 5 His temperature is 41Â°C (105.8Â°F), pulse is 133/min, respirations are 22/min and blood pressure is 90/52 mm 5 His temperature is 41°C (105.8°F), pulse is 133/min, respirations are 22/min and blood pressure is 90/52 mm Hg.
+ms-val-370 1 7 Ice water immersion is not recommended for treating hyperthermia due to the risk of inducing vasoconstriction and shivering, which can increase body temperature. Instead, evaporative cooling methods are typically used.   Corrected: 7 Evaporative cooling was initiated after the following evaluation.
+ms-val-371 1 6 The son also reports his mother's coffee mug smelled of bitter almonds, which he suspects was cyanide.
+ms-val-372 0 -1 NA
+ms-val-373 0 -1 NA
+ms-val-374 1 15 Colonoscopy was not recommended as his previous screening at age 55 was normal.
+ms-val-375 1 7 Recommended to refrain from administering DTaP vaccine.
+ms-val-376 1 7 Recommended to refrain from administering DTaP vaccine.
+ms-val-377 1 14 IV vancomycin is adminstered.
+ms-val-378 1 14 IV vancomycin is adminstered.
+ms-val-379 1 4 The only medication listed in her history is metformin, which is not typically associated with hypoglycemia.
+ms-val-380 0 -1 NA
+ms-val-381 1 27 Rituximab was administered.
+ms-val-382 1 27 Renal biopsy specimen shows a crescent formation in the glomeruli with extracapillary cell proliferation. Rituximab was administered.
+ms-val-383 0 -1 NA
+ms-val-384 1 7 A fundoscopy is performed after the right eye shows conjunctival injection and edema of the cornea.
+ms-val-385 0 -1 NA
+ms-val-386 0 -1 NA
+ms-val-387 0 -1 NA
+ms-val-388 1 3 CT scan of the abdomen and pelvis is ordered.
+ms-val-389 0 -1 NA
+ms-val-390 1 16 After she completed labs and an xray, an arthroscopy was recommended.
+ms-val-391 1 10 Patient was reassured the patient would feel better after being hospitalized.  10 The patient was reassured that he would feel better after being hospitalized.
+ms-val-392 1 19 Plan Enalapril and aortorenal bypass with vein graft for treatment.
+ms-val-393 1 11 Prednisone is prescribed to the patient after an initial radiograph of the hip is unremarkable.
+ms-val-394 1 11 Prednisone is prescribed to the patient after an initial radiograph of the hip is unremarkable.
+ms-val-395 0 -1 NA
+ms-val-396 1 11 Patient instructed to patch right eye. 11 Patient instructed to patch left eye.
+ms-val-397 1 8 Visual acuity cannot be accurately measured in a 6-month-old child.
+ms-val-398 1 3 Four hours later, the cervix is 100% effaced and 10 cm dilated; the vertex is at +1 station.
+ms-val-399 1 4 Shampoo with ketoconazole is recommended.
+ms-val-400 1 4 Shampoo with zinc-pyrithone is recommended.
+ms-val-401 1 15 Intravenous immunoglobin was administered.
+ms-val-402 1 15 Intravenous immunoglobulin was administered.
+ms-val-403 1 11 Examination shows closed anterior and posterior fontanelles.
+ms-val-404 0 -1 NA
+ms-val-405 1 7 The patient has a neurological exam within normal limits and pale skin with blue irises.
+ms-val-406 1 4 The patient's older brother is in good health, but the patient's mother reports that some members of her family have a history of an unknown blood disorder.
+ms-val-407 1 9 Patient was started on spironolactone therapy after a CT scan of the abdomen showed bilateral adrenal gland abnormalities.
+ms-val-408 1 10 Patient was started on spironolactone therapy.
+ms-val-409 1 14 A single dose of anti-D immune globulin is administered. 14 A single dose of anti-D immune globulin should have been administered within 72 hours after delivery.
+ms-val-410 1 14 A single dose of anti-D immune globulin is administered after a positive rosette test.
+ms-val-411 1 8 The patient loses 500 mL of blood over the next minute, during which her blood pressure decreases from 120/80 mmHg.
+ms-val-412 1 7 The patient loses 500 mL of blood over the next minute, during which her blood pressure decreases from 120/80 mmHg to 90/65 mmHg.
+ms-val-413 1 8 Serum studies show negative results for hepatitis B surface antigen, hepatitis B surface antibody, and hepatitis C antibody.
+ms-val-414 1 8 After reviewing serum studies, hepatitis B immunoglobulin and a single dose of hepatitis B vaccine were administered.
+ms-val-415 1 7 A lumbar puncture is performed after finding on neurological exam, he has 3/5 strength in the distal muscles of the right extremity with preserved sensation.
+ms-val-416 1 7 A lumbar puncture is performed after finding on neurological exam, he has 3/5 strength in the distal muscles of the right extremity with preserved sensation.
+ms-val-417 1 13 Naloxone was administered.
+ms-val-418 1 13 Naloxone should not be administered in this case.
+ms-val-419 1 12 Surgical resection and primary would closure was performed. 12 Surgical resection and primary wound closure was performed.
+ms-val-420 1 12 The skin around the cyst is warm and erythematous. 13 Surgical resection and primary wound closure was performed.
+ms-val-421 1 34 In addition to starting antiretroviral therapy, therapy with nystatin mouthwash was prescribed.
+ms-val-422 1 34 In addition to starting antiretroviral therapy, therapy with nystatin mouthwash was prescribed.
+ms-val-423 1 8 blood pressure is 210/130 mm Hg. 8 Blood pressure is 210/130 mmHg.
+ms-val-424 1 15 Contrast-enhanced CT angiography is ordered after the following labs.
+ms-val-425 1 6 The patient is prescribed pantoprazole and sucralfate.
+ms-val-426 1 6 The patient is prescribed pantoprazole and sucralfate to treat his symptoms.
+ms-val-427 1 3 Fluticasone therapy was initiated with the goal of improving the symptoms and lung function.
+ms-val-428 1 9 Her blood group and type is A negative.
+ms-val-429 0 -1 NA
+ms-val-430 0 -1 NA
+ms-val-431 1 9 Laparoscopic surgical drainage is scheduled.
+ms-val-432 1 9 Laparoscopic surgical drainage is scheduled.
+ms-val-433 1 8 Mom has been applying topical coal tar.
+ms-val-434 1 8 Mom has been applying a topical emollient.
+ms-val-435 1 8 She had 5/5 strength in all extremities and 5/5 right ankle plantar flexion when lying down.
+ms-val-436 1 6 Physical examination was started after she had a physical exam and based on imaging findings. 6 Physical examination was conducted based on her symptoms and imaging findings.
+ms-val-437 1 4 Examination reveals a right carotid bruit.
+ms-val-438 1 6 Patient was recommended to start aspirin therapy and continued observation.
+ms-val-439 0 -1 NA
+ms-val-440 0 -1 NA
+ms-val-441 1 4 Vital signs are within normal limits.
+ms-val-442 1 4 Vital signs are within normal limits.
+ms-val-443 1 15 A tuberculin skin test (TST) came back after 48 hours with an induration of 3 mm in diameter.
+ms-val-444 1 15 A tuberculin skin test (TST) came back after 50 hours with an induration of 3 mm in diameter.
+ms-val-445 0 -1 NA
+ms-val-446 1 12 Right leg Doppler study shows inaudible arterial signal and audible venous signal.
+ms-val-447 1 10 Epinephrine was administered to the patient after an ECG was conducted. 10 Epinephrine was administered to the patient after an ECG was conducted and a myocardial infarction was suspected.
+ms-val-448 1 10 Epinephrine was administered to the patient after an ECG was conducted.
+ms-val-449 1 0 A 23-year-old primigravid woman comes to the physician at 36 weeks' gestation for her first prenatal visit.
+ms-val-450 1 18 Vaginal delivery is suggested at 38 weeks and cART is started.
+ms-val-451 1 6 A CT is obtained after physical exam, which is notable for weak leg flexion bilaterally along with decreased anal sphincter tone.
+ms-val-452 0 -1 NA
+ms-val-453 1 9 Metoprolol is administered to the patient.
+ms-val-454 1 9 Metoprolol is administered to the patient.
+ms-val-455 0 -1 NA
+ms-val-456 1 9 In addition to intravenous fluid resuscitation, surgical exploration was performed based on the following exam.
+ms-val-457 0 -1 NA
+ms-val-458 1 1 Surgical excision with 1-2 cm safety margins and sentinel lymph node study were performed.
+ms-val-459 1 11 Based on imaging, patient was scheduled for stereotactic radiosurgery.  11 Based on imaging, the patient was scheduled for stereotactic radiosurgery.
+ms-val-460 1 11 An MRI of the brain is shown. 12 Based on the imaging, the patient was scheduled for a surgical resection.
+ms-val-461 1 5 Ultrasound findings are shown in Figure A and Figure B, and her ÃŸ-hCG is 227,183 mIU/mL. Propylthiouracil therapy is initiated.
+ms-val-462 1 5 Propylthiouracil therapy is initiated after confirming the diagnosis of hyperthyroidism.
+ms-val-463 1 6 Whole blood, fresh frozen plasma, and platelet concentrate are transfused in a 1:1:1 ratio after repeat laboratory studies now show a hemoglobin concentration of 12.4 g/dL, platelet count of 102,000/mm3, prothrombin time of 26 seconds (INR=1.8), and activated partial thromboplastin time of 63 seconds.
+ms-val-464 1 6 Repeat laboratory studies now show a hemoglobin concentration of 12.4 g/dL, platelet count of 102,000/mm3, prothrombin time of 26 seconds (INR=1.8), and activated partial thromboplastin time of 63 seconds. Whole blood, fresh frozen plasma, and platelet concentrate are transfused in a 1:1:1 ratio.
+ms-val-465 1 4 He has smoked one pack of cigarettes daily for 47 years.
+ms-val-466 0 -1 NA
+ms-val-467 1 12 Plasmapheresis is required.
+ms-val-468 1 8 Ultrasonography shows that the fetal long axis is parallel to the long axis of the maternal uterus.
+ms-val-469 1 8 Ultrasonography shows that the fetus is in a transverse lie, meaning the fetal long axis is at a right angle compared to the long axis of the maternal uterus.
+ms-val-470 1 9 Botulinum toxin injection is required. 9 Physical therapy is usually the first line of treatment.
+ms-val-471 1 9 Botulinum toxin injection is required.
+ms-val-472 0 -1 NA
+ms-val-473 0 -1 NA
+ms-val-474 0 -1 NA
+ms-val-475 1 12 Liver biopsy was performed.
+ms-val-476 1 4 The patient is complaining of perioral numbness currently.  4 The patient is currently complaining of perioral numbness.
+ms-val-477 1 5 The patient's calcium level is checked.
+ms-val-478 1 10 Prostheses were removed.
+ms-val-479 1 10 Prostheses were removed.
+ms-val-480 1 32 Treat with ledipasvir/sofosbuvir therapy.
+ms-val-481 1 12 The patient has no advance directive and there is no documentation showing her refusal of blood transfusions.
+ms-val-482 1 13 Transfusion of packed red blood cells was not given due to the patient's religious beliefs as stated by her friend.
+ms-val-483 1 8 blood pressure is 145/95 mm 9 Hg.
+ms-val-484 1 12 Labor induction is recommended due to the presence of proteinuria and hypertension, which are signs of preeclampsia.
+ms-val-485 1 7 Buspirone is recommended.
+ms-val-486 1 7 Buspirone is recommended.
+ms-val-487 1 2 The physician prescribes a drug that blocks peptide transfer by binding to the 50S ribosomal subunit called erythromycin.
+ms-val-488 1 2 The physician prescribes clindamycin, a drug that blocks peptide transfer by binding to the 50S ribosomal subunit.
+ms-val-489 1 6 Serum moxifloxacin levels are undetectable.
+ms-val-490 1 5 Serum moxifloxacin levels are undetectable. 6 Patient is advised to continue moxifloxacin and monitor symptoms closely.
+ms-val-491 0 -1 NA
+ms-val-492 1 6 Examination shows the skin around the intravenous line site to be pale and cool to touch.
+ms-val-493 1 5 Examination shows the skin around the intravenous line site to be pale and cool to touch. 6 Heparin was administered.
+ms-val-494 1 10 An ECG shows tachycardia and a QRS complex width of 110 ms. Activated carbon is administered. 10 An ECG shows tachycardia and a QRS complex width of 110 ms.
+ms-val-495 1 3 Corticosteroids would likely slow the progression of symptoms.
+ms-val-496 1 3 Corticosteroids would not likely slow the progression of symptoms.
+ms-val-497 1 12 His temperature is 38.8°C (101.8°F) , pulse is 105/min, respirations are 24/min, and blood pressure is 98/67 mm Hg.
+ms-val-498 1 3 Prothrombin complex concentrate was administered.
+ms-val-499 1 3 Prothrombin complex concentrate was administered.
+ms-val-500 1 11 Zolpidem was prescribed to the patient.
+ms-val-501 1 9 After examining the patient and reviewing labs, Pramipexole was prescribed.
+ms-val-502 0 -1 NA
+ms-val-503 1 7 Paroxetine is recommended.
+ms-val-504 1 2 He does not take any medications.
+ms-val-505 1 7 Digital rectal examination shows a firm, non-tender, and uniformly enlarged prostate.
+ms-val-506 1 7 Topical corticosteroids were recommended.
+ms-val-507 1 7 Topical estrogen cream was prescribed.
+ms-val-508 1 2 His blood pressure is 145/95 mm Hg.
+ms-val-509 1 4 Hydrochlorothiazide was administered.
+ms-val-510 1 5 Her only vaccinations were received at birth.
+ms-val-511 1 4 Oral penicillin V is recommended.
+ms-val-512 1 1 His EKG shows an atrial rate of 260/min with ventricular rate of 50/min on an irregular baseline.
+ms-val-513 1 3 Flecainide is prescribed. 4 The patient does not drink alcohol and had no evidence of liver dysfunction in prior studies.
+ms-val-514 1 8 She is not oriented to person, place, and time.
+ms-val-515 1 7 She is not oriented to person, place, and time. 8 Magnesium sulfate is prescribed.
+ms-val-516 1 7 These findings are the result of taking the theophylline, which was prescribed to him recently.
+ms-val-517 1 7 These findings are the result of taking the theophylline, which was prescribed to him for his COPD.
+ms-val-518 1 0 A 52-year-old man comes to the physician because of generalized pruritus and raised, erythematous plaques on the skin over his hands, chest, and legs for 6 hours.
+ms-val-519 1 7 Patient is given diphenhydramine after his nasal exam shows clear, serous secretions, with edematous and erythematous mucosa and turbinates.
+ms-val-520 1 5 The patient is started on bromocriptine.
+ms-val-521 1 5 The patient is started on cabergoline.
+ms-val-522 1 6 After examining the patient, she was prescribed ondansetron.  6 After examining the patient, ondansetron was prescribed.
+ms-val-523 1 6 After examining the patient, ondansetron was prescribed.
+ms-val-524 1 10 Topical ganciclovir is prescribed. 10 Topical antibiotics are prescribed.
+ms-val-525 1 8 Topical ofloxacin is prescribed.
+ms-val-526 0 -1 NA
+ms-val-527 0 -1 NA
+ms-val-528 1 3 She is sexually active with 2 male partners and uses an oral contraceptive; she does not use condoms.
+ms-val-529 1 6 Patient is given topical ciprofloxacin after ophthalmic examination shows edema of both eyelids, bilateral conjunctival injection, and a thin purulent discharge.
+ms-val-530 1 15 Lithium was administered to the patient.
+ms-val-531 1 15 Lithium was administered to the patient.
+ms-val-532 1 4 His temperature is 37.1Â°C (98.8Â°F), pulse is 92/min and regular, and blood pressure is 245/115 mm Hg.
+ms-val-533 1 10 After reviewing labs and imaging, intravenous nitroprusside was administered to the patient.
+ms-val-534 1 24 Iron supplementation is not required.
+ms-val-535 1 6 Her serum triglyceride concentration is 5 mg/dL. Pancreatic enzyme replacement is recommended.
+ms-val-536 1 6 Her serum triglyceride concentration is 5 mg/dL. Genetic analysis shows a mutation in the gene that encodes microsomal triglyceride transfer protein.
+ms-val-537 1 6 The patient is started on a drug that inhibits the production of androgens called abiraterone.
+ms-val-538 1 6 The patient is started on a drug that inhibits androgen synthesis called abiraterone.
+ms-val-539 1 5 Carbamazepine was administered.
+ms-val-540 1 8 Physical examination reveals edema, erythema, and petechiae over the patient's face, neck, arms, and lower legs.
+ms-val-541 0 -1 NA
+ms-val-542 1 10 Platelet count: 25,000 11 /mm^3  10 Platelet count: 250,000 11 /mm^3
+ms-val-543 0 -1 NA
+ms-val-544 1 0 A 19-year-old woman presents to the ED after multiple episodes of vomiting in the last 6 hours. 1 The vomitus is non-bloody and non-bilious. 2 The vomiting started shortly after she began having a throbbing, unilateral headache and associated photophobia. 3 She has had several similar headaches in the past. 4 Amitriptyline is prescribed for her headaches. 5 Her vital signs are unremarkable.
+ms-val-545 1 4 Amitriptyline is prescribed.
+ms-val-546 1 6 The patient is started on ciprofloxacin.  6 The patient is started on nitrofurantoin.
+ms-val-547 1 6 The patient is started on ciprofloxacin.
+ms-val-548 1 7 Cardiac examination shows a systolic ejection murmur best heard along the left sternal border that increases with hand grip.
+ms-val-549 1 6 Tamsulosin was prescribed to the patient after urinalysis revealed trace leukocyte esterase and negative nitrite, negative blood, and no bacteria on microscopy.
+ms-val-550 1 6 Tamsulosin was prescribed to the patient after urinalysis revealed trace leukocyte esterase and negative nitrite, negative blood, and no bacteria on microscopy.
+ms-val-551 1 2 He does not take any medications.
+ms-val-552 1 17 Oral prednisone is given after a peripheral blood smear shows spherocytes.
+ms-val-553 1 8 After examining the patient and completing labs, he was prescribed doxycycline therapy.
+ms-val-554 1 8 After examining the patient and completing labs, he was prescribed doxycycline therapy.
+ms-val-555 1 13 Oral vitamin A is required.
+ms-val-556 1 13 Intravenous immunoglobulin is required.
+ms-val-557 1 7 Argatroban is administered.  7 Warfarin is discontinued and heparin is administered.
+ms-val-558 1 4 The patient has a past medical history significant for hypertension for which he takes hydrochlorothiazide.
+ms-val-559 1 11 Plasmapheresis was done to further evaluate after labs and lumbar puncture revealed the following.
+ms-val-560 1 11 Plasmapheresis was done to further evaluate after labs and lumbar puncture revealed the following.
+ms-val-561 1 4 Treatment with a dopamine agonist is begun.
+ms-val-562 1 4 Treatment with a dopamine agonist is begun.
+ms-val-563 1 4 Examination of the patient's cranial nerves reveals an inability to adduct the left eye when the patient is asked to look right.
+ms-val-564 1 10 Patient was recommended to avoid lying flat on her back and instead use a left lateral decubitus position to reverse these symptoms in the future and she was discharged home.
+ms-val-565 1 5 Methotrexate is prescribed to the patient after his laboratory tests are notable for an ESR of 52 mm/hr
+ms-val-566 1 5 His laboratory tests are notable for an ESR of 52 mm/hr (normal for males: 0 -22 mm/hr). 7 Methotrexate is prescribed to the patient.
+ms-val-567 1 9 A1c of 13%.
+ms-val-568 1 9 A1c of 13% should be managed.
+ms-val-569 1 17 Lorazepam is administered during the patient's evaluation, after she experiences 1 episode of pseudoseizure which persisted for 5 minutes.
+ms-val-570 1 18 She is treated with lorazepam.
+ms-val-571 1 9 The patientâ€™s temperature is 99Â°F (37.2Â°C), blood pressure is 120/78 9 The patient's temperature is 99°F (37.2°C), blood pressure is 120/78 mmHg.
+ms-val-572 1 7 Patient is started on a protein-restricted diet.
+ms-val-573 1 7 Patient is started on a protein-restricted diet.
