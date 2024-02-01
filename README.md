@@ -35,7 +35,7 @@ The submission format should follow the data format and consists of:
   * text-id-5 1 15 "correction of sentence 15..."
 
 # Evaluation Script 
-[Will be added soon]
+<https://github.com/abachaa/MEDIQA-CORR-2024/tree/main/evaluation>
 
 # Contact
  MEDIQA-NLP mailing group: https://groups.google.com/g/mediqa-nlp 
