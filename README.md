@@ -35,7 +35,12 @@ The submission format should follow the data format and consists of:
   * text-id-5 1 15 "correction of sentence 15..."
 
 # Evaluation Script 
+
 <https://github.com/abachaa/MEDIQA-CORR-2024/tree/main/evaluation>
+
+1. The first evaluation script computes the following scores:
+   - Error Flag Accuracy, Error Sentence Detection Accuracy, ROUGE-1-F, ROUGE-2-F, ROUGE-L-F, Composite ROUGE-1-F, Composite ROUGE-2-F, Composite ROUGE-L-F.
+   - Composite score computation: ROUGE on sentence vs. sentence cases + ones or zeros when either the reference or the candidate correction is NA. 
 
 # Contact
  MEDIQA-NLP mailing group: https://groups.google.com/g/mediqa-nlp 
