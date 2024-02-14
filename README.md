@@ -34,16 +34,41 @@ The submission format should follow the data format and consists of:
   * text-id-4 0 -1 NA
   * text-id-5 1 15 "correction of sentence 15..."
 
-# Evaluation Script 
+# Evaluation Metrics & Scripts 
 
-<https://github.com/abachaa/MEDIQA-CORR-2024/tree/main/evaluation>
+---
+**We use the following evaluation metrics:**
+-  **Accuracy** for Error Flag Prediction _(subtask A)_ and Error Sentence Detection _(subtask B)_
+-  **NLG metrics**: ROUGE, BERTScore, BLEURT, their **Aggregate-Score** (Mean of ROUGE-1-F, BERTScore, BLEURT-20), and their **Composite Scores** for the evaluation of Sentence Correction _(subtask C)_.
+    -  The Composite score is the mean of individual scores computed as follows for each text: ​
+       - 1 point if both the system correction and the reference correction are "NA"​
+       -  0 point if only one of the system or the reference is "NA"​
+       -  NLG metrics value in [0, 1] range (e.g., ROUGE, BERTScore, BLEURT or Aggregate-Score) if both the system correction and reference correction are non-"NA" sentences.
+    -  <ins>**Aggregate-Composite score**</ins> is the main evaluation score to rank the participating systems. 
 
-1. The first evaluation script computes the following scores:
-   - Error Flag Accuracy, Error Sentence Detection Accuracy, ROUGE-1-F, ROUGE-2-F, ROUGE-L-F, Composite ROUGE-1-F, Composite ROUGE-2-F, Composite ROUGE-L-F.
-   - Composite score computation: ROUGE on sentence vs. sentence cases + ones or zeros when either the reference or the candidate correction is NA. 
+---
 
+**Evaluation scripts:** <https://github.com/abachaa/MEDIQA-CORR-2024/tree/main/evaluation>
+
+1. The [first evaluation script](https://github.com/abachaa/MEDIQA-CORR-2024/blob/main/evaluation/mediqa-corr-2024-eval-script-1-acc-rouge.ipynb.py) computes Accuracy, ROUGE, and ROUGE-Composite scores:
+   - Error Flag Accuracy _(subtask A)_
+   - Error Sentence Detection Accuracy _(subtask B)_
+   - NLG Metrics _(subtask C)_: ROUGE-1-F, ROUGE-2-F, ROUGE-L-F, ROUGE-1-F-Composite, ROUGE-2-F-Composite, ROUGE-L-F-Composite.
+   - **Composite score computation**: ROUGE on sentence vs. sentence cases + ones or zeros when either the reference or the candidate correction is NA. 
+
+​2. The second evaluation script computes Accuracy, ROUGE/BERTScore/BLEURT, Aggregate-Score and their Composite scores: 
+   - Error Flag Accuracy _(subtask A)_
+   - Error Sentence Detection Accuracy _(subtask B)_
+   - NLG Metrics _(subtask C)_:
+       - ROUGE-1-F, ROUGE-2-F, ROUGE-L-F, ​BERTScore (microsoft/deberta-xlarge-mnli), BLEURT-20
+       - ROUGE-1-F-Composite, ROUGE-2-F-Composite, ROUGE-L-F​-Composite, BERTScore-Composite, BLEURT-20​-Composite
+       - Aggregate-Score: Mean of ROUGE-1-F, BERTScore, BLEURT-20 (correlates better with human judgments; cf. our ACL Findings 2023 paper on evaluation metrics <https://aclanthology.org/2023.findings-acl.161.pdf>
+       - **Aggregate-Composite**​ (main score to rank the participating systems) 
+
+​
 # Contact
- MEDIQA-NLP mailing group: https://groups.google.com/g/mediqa-nlp 
+ MEDIQA-NLP mailing list: https://groups.google.com/g/mediqa-nlp 
+ Email: mediqa.organizers@gmail.com 
 
 # Organizers   
 * Asma Ben Abacha, Microsoft, USA
