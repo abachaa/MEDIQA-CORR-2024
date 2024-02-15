@@ -56,7 +56,7 @@ The submission format should follow the data format and consists of:
    - NLG Metrics _(subtask C)_: ROUGE-1-F, ROUGE-2-F, ROUGE-L-F, ROUGE-1-F-Composite, ROUGE-2-F-Composite, ROUGE-L-F-Composite.
    - **Composite score computation**: ROUGE on sentence vs. sentence cases + ones or zeros when either the reference or the candidate correction is NA. 
 
-​2. The second evaluation script computes Accuracy, ROUGE/BERTScore/BLEURT, Aggregate-Score and their Composite scores: 
+​2. The [second evaluation script](https://github.com/abachaa/MEDIQA-CORR-2024/blob/main/evaluation/mediqa-corr-2024-eval-script-2-all-metrics.py) computes Accuracy, ROUGE/BERTScore/BLEURT, Aggregate-Score and their Composite scores: 
    - Error Flag Accuracy _(subtask A)_
    - Error Sentence Detection Accuracy _(subtask B)_
    - NLG Metrics _(subtask C)_:
