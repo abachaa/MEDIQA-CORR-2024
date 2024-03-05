@@ -44,7 +44,7 @@ The submission format should follow the data format and consists of:
        - 1 point if both the system correction and the reference correction are "NA"​
        -  0 point if only one of the system or the reference is "NA"​
        -  NLG metrics value in [0, 1] range (e.g., ROUGE, BERTScore, BLEURT or Aggregate-Score) if both the system correction and reference correction are non-"NA" sentences.
-    -  <ins>**Aggregate-Composite score**</ins> is the main evaluation score to rank the participating systems. 
+    -  <ins>**Aggregate score**</ins> is the main evaluation score to rank the participating systems. 
 
 ---
 
@@ -62,8 +62,8 @@ The submission format should follow the data format and consists of:
    - NLG Metrics _(subtask C)_:
        - ROUGE-1-F, ROUGE-2-F, ROUGE-L-F, ​BERTScore (microsoft/deberta-xlarge-mnli), BLEURT-20
        - ROUGE-1-F-Composite, ROUGE-2-F-Composite, ROUGE-L-F​-Composite, BERTScore-Composite, BLEURT-20​-Composite
-       - Aggregate-Score: Mean of ROUGE-1-F, BERTScore, BLEURT-20 (correlates better with human judgments; cf. our ACL Findings 2023 paper on evaluation metrics <https://aclanthology.org/2023.findings-acl.161.pdf>
-       - **Aggregate-Composite**​ (main score to rank the participating systems) 
+       - **Aggregate-Score** (main score to rank the participating systems): Mean of ROUGE-1-F, BERTScore, BLEURT-20 (correlates better with human judgments; cf. our ACL Findings 2023 paper on evaluation metrics <https://aclanthology.org/2023.findings-acl.161.pdf>
+       - Aggregate-Composite
 
 ​
 # Contact
